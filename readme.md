@@ -1,1 +1,1 @@
-## This is a latest nosql statar for personal use only
+## This is a latest nosql stastar for personal use only
